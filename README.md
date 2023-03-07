@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **alarconayelenpaulina@gmail.com**
 
-- ⚡ Fun fact **I love playing League of Legends with my friends in my free time**
+- ⚡ Fun fact: **I love playing League of Legends with my friends in my free time! I also do yoga and read to relax my mind**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
