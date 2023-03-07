@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Paulina!</h1>
 <h3 align="center">A passionate Full Stack developer from Cordoba, Argentina</h3>
 
-- 🔭 I’ve been currently working on ["Art Street Wine club"](https://street-art-wine-club-front-end-wc6e.vercel.app/) as a group, final project to graduate as a full stack developer from Henry bootcamp.
+- 🔭 I’ve been currently working on ["Art Street Wine club"](https://street-art-wine-club-front-end-wc6e.vercel.app/) as a group, final project to graduate as a full stack developer from Henry bootcamp. As a team member I was in charge of modelating the database, for which I used Postgres and DBeaver to manage it. Also part of my work was developing controllers at the back end and some components at the front end (like the "Favourites" section, "Memberships" at user profile, among others). My teammates who helped me develop this awesome project are: 
+🤝 David Hurtado (https://github.com/DavidStevens1997)
+🤝 Javier Pedernera (https://github.com/Javier-Pedernera) 
+🤝 Matías Barroso (https://github.com/MatiasBarroso)
+🤝 Matías Rodríguez (https://github.com/Matias-Rodriguez-UX)
+🤝 Sol Savid (https://github.com/msolsavidp)
+🤝 Valeria Bazan (https://github.com/ValeBazan)
 
-- 🌱Also, i've made an interesting app about **videogames as part of an individual project for Henry bootcamp, some of the tech i've used are: Express and Postgres for the back end and database, and React, Redux, Bootstrap and CSS for the front end.**
+- 🌱Also, i've made an interesting app about **videogames as part of an individual project for Henry bootcamp, some of the tech i've used are: Express and Postgres for the back end and database, and React, Redux, Bootstrap and CSS for the front end.** This project in particular was a real challenge to me because it was the first time developing from scratch an API. I truly appreciate this first experience! 
 
 - 👨‍💻 All of my projects are available at [https://my-awesome-portfolio-00c409.webflow.io/](https://my-awesome-portfolio-00c409.webflow.io/)
 
