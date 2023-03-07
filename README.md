@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paulina!</h1>
-<h3 align="center">A passionate developer from Cordoba, Argentina</h3>
+<h3 align="center">A passionate Full Stack developer from Cordoba, Argentina</h3>
 
 - 🔭 I’ve been currently working on ["Art Street Wine club" as a group, final project to graduate as a full stack developer from Henry bootcamp](https://street-art-wine-club-front-end-wc6e.vercel.app/)
 
