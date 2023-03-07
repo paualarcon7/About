@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paulina!</h1>
 <h3 align="center">A passionate Full Stack developer from Cordoba, Argentina</h3>
 
-- 🔭 I’ve been currently working on ["Art Street Wine club" as a group, final project to graduate as a full stack developer from Henry bootcamp](https://street-art-wine-club-front-end-wc6e.vercel.app/)
+- 🔭 I’ve been currently working on ["Art Street Wine club"] as a group, final project to graduate as a full stack developer from Henry bootcamp.(https://street-art-wine-club-front-end-wc6e.vercel.app/)
 
 - 🌱Also, i've made an interesting app about **videogames as part of an individual project for Henry bootcamp, some of the tech i've used are: Express and Postgres for the back end and database, and React, Redux, Bootstrap and CSS for the front end.**
 
