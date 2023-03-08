@@ -11,7 +11,7 @@
 
 - 🌱Also, i've made an interesting app about **videogames as part of an individual project for Henry bootcamp, some of the tech i've used are: Express and Postgres for the back end and database, and React, Redux, Bootstrap and CSS for the front end.** This project in particular was a real challenge to me because it was the first time developing from scratch an API. I truly appreciate this first experience! 
 
-- 👨‍💻 All of my projects are available at [https://my-awesome-portfolio-00c409.webflow.io/](https://my-awesome-portfolio-00c409.webflow.io/)
+- 👨‍💻 All of my projects are available at [https://paulina-alarcon-portfolio.webflow.io/](https://paulina-alarcon-portfolio.webflow.io/)
 
 - 📫 How to reach me **alarconayelenpaulina@gmail.com**
 
