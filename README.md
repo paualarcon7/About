@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paulina!</h1>
 <h3 align="center">A passionate Full Stack developer from Cordoba, Argentina</h3>
 
-- 🔭 I’ve been currently working on ["Art Street Wine club"](https://street-art-wine-club-front-end-wc6e.vercel.app/) as a group, final project to graduate as a full stack developer from Henry bootcamp. As a team member I was in charge of modelating the database, for which I used Postgres and DBeaver to manage it. Also part of my work was developing controllers at the back end and some components at the front end (like the "Favourites" section, "Memberships" at user profile, among others). My teammates who helped me develop this awesome project are: 
+- 🔭 I’ve been currently working on ["Street Art Wine Club"](https://street-art-wine-club-front-end-wc6e.vercel.app/) as a group, final project to graduate as a full stack developer from Henry bootcamp. As a team member I was in charge of modelating the database, for which I used Postgres and DBeaver to manage it. Also part of my work was developing controllers at the back end and some components at the front end (like the "Favourites" section, "Memberships" at user profile, among others). My teammates who helped me develop this awesome project are: 
 - 🤝 David Hurtado (https://github.com/DavidStevens1997)
 - 🤝 Javier Pedernera (https://github.com/Javier-Pedernera) 
 - 🤝 Matías Barroso (https://github.com/MatiasBarroso)
